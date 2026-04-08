@@ -1,7 +1,9 @@
 # Library-Management-System
 # C++ Library Management System  
-## Description A modular library management system implemented in C++ as part of university coursework. The project demonstrates object-oriented design, interface usage, and modular architecture.  
-## Features  - Management of different media types:   
+## Description 
+A modular library management system implemented in C++ as part of university coursework. The project demonstrates object-oriented design, interface usage, and modular architecture.  
+## Features  
+Management of different media types:   
 - Books
 - DVDs
 - Magazines
@@ -13,5 +15,7 @@
 - C++
 - Object-Oriented Programming
 - Makefile build system
-## Build  make  
-## Run  ./library-system
+## Build  
+make  
+## Run  
+./library-system
