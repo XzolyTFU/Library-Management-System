@@ -16,6 +16,6 @@ Management of different media types:
 - Object-Oriented Programming
 - Makefile build system
 ## Build  
-make  
+make all 
 ## Run  
-./library-system
+make run
