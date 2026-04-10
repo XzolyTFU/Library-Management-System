@@ -53,8 +53,7 @@ This modular structure improves maintainability and scalability.
 
 ## Build & Run
 
-make
-./library-system
+make all
 
 ---
 
